@@ -1,0 +1,10 @@
+jdbc:sqlserver://Luciano\SQLEXPRESS:1433;databaseName=CRUDDATABASE;user=sa;password=root;
+D:\\Escritorio\\Java\\SoftwareCuatris\\Pedidos PDF
+D:\\Escritorio\\Pedidos.xls
+D:\\Escritorio\\Clientes.xls
+D:\\Escritorio\\pedidoDetalles.xls
+D:\\Escritorio\\Productos.xls
+D:\\Escritorio\\Zonas.xls
+D:\\Escritorio\\Horarios.xls
+D:\\Escritorio\\Vendedores.xls
+D:\\Escritorio\\Cadetes.xls
